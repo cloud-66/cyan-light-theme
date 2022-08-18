@@ -1,0 +1,21 @@
+{
+  "name": "cyan-light-theme",
+  "displayName": "Cyan Light Theme",
+  "description": "Port of Intellij IDEA Cyan Light Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyan Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/cyan-light-color-theme.json"
+      }
+    ]
+  }
+}

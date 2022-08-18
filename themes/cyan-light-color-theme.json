@@ -1,0 +1,47 @@
+{
+	"name": "Cyan light theme",
+	"colors": {
+		"editor.background": "#F2F3F7",
+		"editor.foreground": "#262626",
+		"editor.selectionBackground": "#B8DDE0",
+        "list.activeSelectionIconForeground": "#fff",
+		"titleBar.activeBackground": "#e4e6eb",
+		"titleBar.inactiveBackground": "#F2F3F7",
+	},
+	"tokenColors": [
+		{
+			"name": "Operators",
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#0073BF"
+			}
+		},
+		{
+			"name": "Keywords",
+			"scope": [
+				"keyword",
+				"storage"
+			],
+			"settings": {
+				"foreground": "#0073BF"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": "string",
+			"settings": {
+				"foreground": "#00733B"
+			}
+		},
+		{
+			"name": "Comments",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#808080"
+			}
+		},
+	]
+}
