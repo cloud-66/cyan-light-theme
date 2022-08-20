@@ -15,12 +15,16 @@
 		"sideBar.background":"#e4e6eb",
 		"tab.border":"#bec5cd",
 		"tab.hoverBackground":"#b9bdc999",
+		"tab.activeBorder": "#29abcb",
 		"tab.inactiveBackground":"#e4e6eb",
 		"scrollbarSlider.background":"#e4e6eb",
 		"scrollbarSlider.activeBackground":"#ced2d9",
 		"scrollbarSlider.hoverBackground": "#ced2d9",
 		"menu.background":"#e4e6eb",
 		"menu.selectionBackground":"#3eb2c2",
+		//"panel.background":"#ff0000",
+		//"panel.border":"#ff0000"
+		"panelTitle.activeBorder":"#29abcb",
 	},
 	"tokenColors": [
 		{
