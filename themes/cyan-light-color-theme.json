@@ -2,11 +2,14 @@
 	"name": "Cyan light theme",
 	"colors": {
 		"editor.background": "#F2F3F7",
-		"editor.foreground": "#262626",
+		"editor.foreground": "#1d1d1d",
 		"editor.selectionBackground": "#B8DDE0",
         "list.activeSelectionIconForeground": "#fff",
 		"titleBar.activeBackground": "#e4e6eb",
 		"titleBar.inactiveBackground": "#F2F3F7",
+		"activityBar.border": "#bec5cd",
+		"sideBar.border":"#bec5cd",
+		"tab.border":"#bec5cd",
 	},
 	"tokenColors": [
 		{

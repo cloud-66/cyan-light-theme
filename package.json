@@ -17,5 +17,10 @@
         "path": "./themes/cyan-light-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloud-66/cyan-light-theme.git"
+  },
+  "homepage": "https://github.com/cloud-66/cyan-light-theme/README.md"
 }
