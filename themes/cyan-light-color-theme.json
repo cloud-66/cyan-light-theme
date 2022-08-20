@@ -22,8 +22,6 @@
 		"scrollbarSlider.hoverBackground": "#ced2d9",
 		"menu.background":"#e4e6eb",
 		"menu.selectionBackground":"#3eb2c2",
-		//"panel.background":"#ff0000",
-		//"panel.border":"#ff0000"
 		"panelTitle.activeBorder":"#29abcb",
 	},
 	"tokenColors": [
