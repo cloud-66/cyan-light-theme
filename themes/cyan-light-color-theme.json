@@ -1,22 +1,33 @@
 {
 	"name": "Cyan light theme",
 	"colors": {
+		"foreground":"#1d1d1d",
+		"activityBar.background":"#e4e6eb",
+		"activityBar.foreground":"#1d1d1d",
 		"editor.background": "#F2F3F7",
-		"editor.foreground": "#1d1d1d",
+		"editor.foreground": "#262626",
 		"editor.selectionBackground": "#B8DDE0",
         "list.activeSelectionIconForeground": "#fff",
 		"titleBar.activeBackground": "#e4e6eb",
 		"titleBar.inactiveBackground": "#F2F3F7",
 		"activityBar.border": "#bec5cd",
 		"sideBar.border":"#bec5cd",
+		"sideBar.background":"#e4e6eb",
 		"tab.border":"#bec5cd",
+		"tab.hoverBackground":"#b9bdc999",
+		"tab.inactiveBackground":"#e4e6eb",
+		"scrollbarSlider.background":"#e4e6eb",
+		"scrollbarSlider.activeBackground":"#ced2d9",
+		"scrollbarSlider.hoverBackground": "#ced2d9",
+		"menu.background":"#e4e6eb",
+		"menu.selectionBackground":"#3eb2c2",
 	},
 	"tokenColors": [
 		{
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#0073BF"
+				"foreground": "#262626"
 			}
 		},
 		{
@@ -26,7 +37,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#0073BF"
+				"foreground": "#000080"
 			}
 		},
 		{
