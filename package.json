@@ -3,6 +3,7 @@
   "displayName": "Cyan Light Theme",
   "description": "Port of Intellij IDEA Cyan Light Theme",
   "version": "0.0.1",
+  "publisher": "Cloud-66",
   "engines": {
     "vscode": "^1.70.0"
   },

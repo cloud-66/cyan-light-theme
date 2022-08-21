@@ -23,6 +23,8 @@
 		"menu.background":"#e4e6eb",
 		"menu.selectionBackground":"#3eb2c2",
 		"panelTitle.activeBorder":"#29abcb",
+		"list.activeSelectionBackground":"#3eb2c2",
+		"list.inactiveSelectionBackground":"#d0d5db"
 	},
 	"tokenColors": [
 		{
